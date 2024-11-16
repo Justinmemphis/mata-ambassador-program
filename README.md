@@ -1,3 +1,3 @@
 # mata-ambassador-program
 
-# live site here: [https://mata-ambassador.netlify.app/](mata-ambassador.netlify.app)
+# live site here: [mata-ambassador.netlify.app/](https://mata-ambassador.netlify.app)
