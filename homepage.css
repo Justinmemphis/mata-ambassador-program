@@ -50,7 +50,7 @@ body {
 
 /* Hero section styling */
 .hero {
-  background-image: url('https://via.placeholder.com/1600x900'); /* Replace with your image */
+  background-image: url(./assets/bus.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
