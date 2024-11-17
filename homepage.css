@@ -136,3 +136,14 @@ h2 {
 	height: 100px;
 	width: 100px;
 }
+
+.ready-image-div {
+	margin: auto;
+	width: 50%;
+}
+
+.ready-image {
+	max-height: 600px;
+	width: auto;
+	height: auto;
+}
