@@ -11,7 +11,6 @@ body {
 
   /* Navigation links container */
 .navbar ul {
-    list-style: none; /* Remove bullets */
     margin: 0;
     padding: 0;
     display: flex; /* Make links appear adjacent */
@@ -102,6 +101,10 @@ body {
 
 .cta-btn:hover {
   background-color: #e5533a;
+}
+
+.navbar {
+	list-style: none;
 }
 
 p {
