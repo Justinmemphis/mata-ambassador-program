@@ -103,3 +103,28 @@ body {
 .cta-btn:hover {
   background-color: #e5533a;
 }
+
+p {
+	padding: 1em;
+	margin: .5em;
+}
+
+ul {
+	padding: 0.5em;
+}
+
+li {
+	list-style-type: circle;
+	padding: 0.5em;
+}
+
+h1, h2, h3 {
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
