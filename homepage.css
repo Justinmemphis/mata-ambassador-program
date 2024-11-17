@@ -121,9 +121,15 @@ li {
 	padding: 0.5em;
 }
 
-h1, h2, h3 {
+h1, h2 {
 	padding: 0.5em;
 	margin: 0.5em;
+}
+
+h3{
+  font-size: 1.5em;
+  padding: 0.5em;
+  margin: none;
 }
 
 h2 {
@@ -132,9 +138,10 @@ h2 {
 }
 
 .logo {
-	margin: .5em 0 0 2em;
-	height: 100px;
-	width: 100px;
+  margin: 0 auto;
+  height: 100px;
+  width: 100px;
+  display: block;
 }
 
 .ready-image-div {
@@ -156,4 +163,12 @@ h2 {
 
 .update-text {
 	text-align: center
+}
+
+#findaride, #ready, #getintouch{
+  background-color: white;
+}
+
+.bold-title{
+  font-weight: 600;
 }
